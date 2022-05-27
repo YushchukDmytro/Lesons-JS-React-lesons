@@ -101,7 +101,7 @@ console.log(2 * 4 === 8);
 
 const isChacked = true,
 			isClose = true;
-
+			
 console.log(isChacked && isClose); 
 
 // '&&'- оператор " і "
